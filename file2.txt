@@ -1,1 +1,5 @@
-conflict 브랜치에서의 변경 내용
+<<<<<<< HEAD
+main 브랜치에서의 변경 내용
+=======
+conflict 브랜치에서의 변경 내용 !
+>>>>>>> conflict
